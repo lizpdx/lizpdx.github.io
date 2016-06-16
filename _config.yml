@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   These pages are the start of a github portfolio for Liz Savage.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lizpdx.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: lizthedrummer
+github_username:  lizpdx
 
 # Build settings
 markdown: kramdown
