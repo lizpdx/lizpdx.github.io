@@ -6,16 +6,10 @@ categories: update intro
 ---
 I'm going to post all my learnings here so as to track them over time, and remind myself of all the amazing things that there are to learn.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+For example, this week I learned about [ARGV][argv] which is super useful for passing files into a script from the command line and being able to iterate through them like an array.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+Check out the [Jekyll docs][jekyll-docs] for more info on getting the most out of Jekyll.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[argv]: http://jnoconor.github.io/blog/2013/10/13/a-short-explanation-of-argv/
