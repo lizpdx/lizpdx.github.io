@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Portland SalesForce User Group or How I Learned to Stop"
+title:  "Portland SalesForce User Group or How I Learned to Stop Worrying and Love Marketing"
 date:   2016-06-17 10:00:00 -0700
 categories: sfdc marketing data analytics
 ---
@@ -8,8 +8,8 @@ Attended the [SFDC][sfdc] user group meetup this morning at the lovely [smarsh][
 
 Quick preso on the [Lookup Rollup Summaries][lookup] plugin to create a remote site.
 
-"* Rollup information between Lookup relationships not previously possible without writing Apex Triggers
-* Define rollups using standard UI declaratively, no coding required"
+* "Rollup information between Lookup relationships not previously possible without writing Apex Triggers"
+* "Define rollups using standard UI declaratively, no coding required"
 
 
 
