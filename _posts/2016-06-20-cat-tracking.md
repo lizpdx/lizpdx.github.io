@@ -14,10 +14,8 @@ published: false
 ### [KittyCam](http://www.girliemac.com/blog/2015/12/25/kittycam-raspberrypi-camera-cat-face-recog-nodejs/)
 - Pi, camera and PIR sensor
 - node.js, J5 and more
-
-[Git](https://github.com/girliemac/RPi-KittyCam)
-
-[Buy the SmartiPi cam](https://www.amazon.com/compatible-SmartiPi-Raspberry-camera-GoPro/dp/B00UDP0A6Q)
+- [Git](https://github.com/girliemac/RPi-KittyCam)
+- [Buy the SmartiPi cam](https://www.amazon.com/compatible-SmartiPi-Raspberry-camera-GoPro/dp/B00UDP0A6Q)
 
 
 1. Detect Motion J5
