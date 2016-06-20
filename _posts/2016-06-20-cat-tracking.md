@@ -26,5 +26,6 @@ published: false
 ![kitty.png]({{site.baseurl}}/_posts/kitty.png)
 
 
-
-
+Upgrades:
+- RaspberryPi 3
+- NoIR Night Vision camera
