@@ -3,9 +3,7 @@ published: false
 ---
 ## KittyCam!!!!
 
-
 ### Background
-
 - Tomomi created https://http.cat/
 - Inspired by Maker Faire
 - Sketch for Arduino based on C
@@ -17,13 +15,15 @@ published: false
 - [Git](https://github.com/girliemac/RPi-KittyCam)
 - [Buy the SmartiPi cam](https://www.amazon.com/compatible-SmartiPi-Raspberry-camera-GoPro/dp/B00UDP0A6Q)
 
-
 1. Detect Motion J5
 1. Take photo Raspistill
 1. Cat facial detect KittyDar
 1. Store photo Cloudinary
 1. Publish url data to pubnub
 
+- [KittyDar](https://github.com/harthur/kittydar)
+
+![kitty.png]({{site.baseurl}}/_posts/kitty.png)
 
 
 
