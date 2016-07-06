@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Post, the first"
+date:   2016-07-05 20:18:13 -0700
+categories: jekyll update
+---
+
+I’m going to post all my learnings here so as to track them over time, and remind myself of all the amazing things that there are to learn.
+
+For example, a few weeks ago I learned about ARGV which is super useful for passing files into a script from the command line and being able to iterate through them like an array.
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
